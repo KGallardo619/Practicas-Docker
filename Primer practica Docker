@@ -1,0 +1,12 @@
+Docker
+Docker info
+
+Docker pull wordpress:4.7.2-apache
+Docker image ls
+Docker run –name wordpress01 -p 80:80 -d wordpress:4.7.2-apache
+Docker ps
+Docker network ls
+docker stop wordpress01
+Docker ps
+Docker rm wordpress01 
+history
